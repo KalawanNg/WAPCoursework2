@@ -1,17 +1,20 @@
 [
   {
-    "title": "sample 1",
-    "description": "sample 1 description",
+    "img": "https://imageio.forbes.com/blogs-images/bridgetarsenault/files/2017/07/Gym_Weights_6361-1200x800.jpg?height=474&width=711&fit=bounds",
+    "title": "FitBody Gym 1",
+    "description": "Located in East London",
     "location": "2+whitelegg+road,+plaistow,+London,+UK+E13+0TA"
   },
   {
-    "title": "sample 2",
-    "description": "sample 2 description",
+    "img": "https://www.harbourclub.com/-/media/harbour-club/images/chelsea-and-harbour-rebrand-2019/chelsea/club-page/hc-chelsea-gym-hero.jpg",
+    "title": "FitBody Gym 2",
+    "description": "Located in North London",
     "location": "1+Goodinge+Rd,+London+N7+9EW"
   },
   {
-    "title": "sample 3",
-    "description": "sample 3 description",
+    "img": "https://www.londonaquaticscentre.org/wp-content/uploads/2024/03/e2cff778-3e44-463a-95f3-af9a4026e25da-1470x827.jpg",
+    "title": "FitBody Gym 3",
+    "description": "Located in Centeral London",
     "location": "115 New Cavendish St, London W1W 6UW"
   }
 ]
