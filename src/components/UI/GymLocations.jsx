@@ -7,7 +7,7 @@ import {
     MDBCardImage,
     MDBBtn
 } from 'mdb-react-ui-kit';
-import locationData from "../../data/data.json"
+import locationData from "../../data/data.json";
 
 export default function App() {
     return (
@@ -15,8 +15,8 @@ export default function App() {
             <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
                 {locationData.map(data => (
                     <div style={{ margin: '15px' }}>
-                        <MDBCard style={{ maxWidth: '390px', display: 'flex' }}>
-                            <MDBCardImage src='https://mdbootstrap.com/img/new/standard/nature/184.webp' position='top' alt='...' />
+                        <MDBCard style={{ width: '390px', display: 'flex' }}>
+                        <MDBCardImage src={data.img} position='top' alt='...' className='img-container' />
                             <MDBCardBody>
                                 <MDBCardTitle>{data.title}</MDBCardTitle>
                                 <MDBCardText>

@@ -68,3 +68,8 @@ ul{
   color: var(--heading-color);
   font-weight: 700;
 }
+
+.img-container {
+  width: 300px; /* 设置图片的宽度 */
+  height: 200px; /* 设置图片的高度 */
+}

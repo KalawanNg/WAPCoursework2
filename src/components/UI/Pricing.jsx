@@ -31,7 +31,7 @@ const Pricing = () => {
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
                         </span>Customer support</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Personal trainer</li>
+                        </span>General trainer</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
                         </span>Standard options</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
@@ -56,15 +56,15 @@ const Pricing = () => {
                 <div className="services">
                     <ul>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Unlimited access to the gym</li>
+                        </span>Unlimited access 24/5</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Customer support</li>
+                        </span>Book classed easily</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
                         </span>Personal trainer</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Standard options</li>
+                        </span>Multiple gym access</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>5 classes per week</li>
+                        </span>10 classes per week</li>
                     </ul>
 
                     <Link to="/memberchoosing" className='custom-register_btn d-flex justify-content-center align-items-center'>
@@ -85,15 +85,15 @@ const Pricing = () => {
                 <div className="services">
                     <ul>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Unlimited access to the gym</li>
+                        </span>Unlimited access 24/7</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Customer support</li>
+                        </span>Book classed earlier</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
                         </span>Personal trainer</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>Standard options</li>
+                        </span>Multiple gym access</li>
                         <li><span><i className="ri-checkbox-blank-circle-fill"></i>
-                        </span>5 classes per week</li>
+                        </span>Freze at no additional cost</li>
                     </ul>
                     <Link to="/memberchoosing" className='custom-register_btn d-flex justify-content-center align-items-center'>
                          Join Now
